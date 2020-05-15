@@ -10,13 +10,6 @@
 
     (dbn) PS C:\Users\truea> conda install tensorflow=1.15
 
-    (dbn) PS C:\Users\truea> jupyter notebook --generate-config   
-    Writing default config to: C:\Users\truea\.jupyter\jupyter_notebook_config.py
-
-    C:\Users\truea\.jupyter\jupyter_notebook_config.py 편집
-        c.NotebookApp.open_browser = False
-        c.NotebookApp.port = 18888
-
     (dbn) PS C:\Users\truea> conda install scikit-learn  
 
     (dbn) PS C:\Users\truea> conda install pandas 
