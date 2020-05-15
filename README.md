@@ -13,7 +13,6 @@
   Writing default config to: C:\Users\truea\.jupyter\jupyter_notebook_config.py
 
   C:\Users\truea\.jupyter\jupyter_notebook_config.py 편집
-    c.NotebookApp.notebook_dir = 'C:\GitHub'
     c.NotebookApp.open_browser = False
     c.NotebookApp.port = 18888
 
@@ -38,5 +37,8 @@
   V
   DD
   
+4. jupyter 실행
+
+  jupyter notebook C:\GitHub
   
   
