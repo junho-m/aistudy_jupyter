@@ -47,3 +47,10 @@
     jupyter notebook C:\GitHub
   
   
+## 참고자료
+
+
+    김선희: https://github.com/whatnews72/prettywoman.git
+    서정욱:
+    손근홍: https://github.com/newhong-sci/2005_GS_deep-learning_basic
+    이창진: https://github.com/frix4/ai-study
