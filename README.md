@@ -16,6 +16,7 @@
 
     (dbn) PS C:\Users\truea> conda install seaborn 
 
+   (base) PS C:\Windows\system32> python -m ipykernel install --user --name dbn --display-name "dbn"
   
 ## 2. conda 명령어
 
