@@ -1,0 +1,2 @@
+model_checkpoint_path: "200515_MLR_price_predction_model.cpkt"
+all_model_checkpoint_paths: "200515_MLR_price_predction_model.cpkt"
